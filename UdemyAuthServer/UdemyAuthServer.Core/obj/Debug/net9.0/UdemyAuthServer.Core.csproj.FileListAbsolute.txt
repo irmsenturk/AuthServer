@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\bin\Debug\net9.0\UdemyAuthServer.Core.deps.json
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\bin\Debug\net9.0\UdemyAuthServer.Core.dll
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\bin\Debug\net9.0\UdemyAuthServer.Core.pdb
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAuthServer.Core.AssemblyInfo.cs
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAuthServer.Core.dll
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\refint\UdemyAuthServer.Core.dll
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAuthServer.Core.pdb
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\ref\UdemyAuthServer.Core.dll
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\bin\Debug\net9.0\SharedLibrary.dll
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\bin\Debug\net9.0\SharedLibrary.pdb
+C:\Users\pc\source\repos\UdemyAuthServer\UdemyAuthServer.Core\obj\Debug\net9.0\UdemyAut.790A78FE.Up2Date
